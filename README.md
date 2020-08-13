@@ -13,26 +13,18 @@ This web application uses Cloud Database and User Authentication via [Firebase/F
 
 ## Features
 
-- Toggable Hamburger Menu Bar
-- Filter through Destinations through SideBar Search Bar with updated location markers
-- Discover 5 unique destinations through location markers, with description pop-ups
-- Live map using Mapbox API
+- Sign Up for an account
+- Sign In with your account
+- Browse through categories or search box
+- Click on any card to view Title, Description, and Movie Content Rating
+- Click on Play to play Movie or Show!
+- Different User? Click on user profile then sign out.
 
 ## Running the Project
 
 ### Requirements:
 
-- Register for an account via [Live Version Link](https://my-netflix-clone.firebaseapp.com/)
-
-### Directions:
-
-  1. Click the [Live Version Link](https://my-netflix-clone.firebaseapp.com/)
-  2. Sign up for an account
-  3. Sign in with your account
-  4. Browse through categories or Search Box
-  5. Click on any card to view Title, Description, and Movie Content Rating
-  6. Click on Play to play Movie or Show!
-  7. Different User? Click on user profile then sign out.
+- Register for an account and Sign In via [Live Version Link](https://my-netflix-clone.firebaseapp.com/)
 
 ## Dependencies:
 
