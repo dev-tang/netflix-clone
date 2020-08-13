@@ -29,5 +29,6 @@ This web application uses Cloud Database and User Authentication via [Firebase/F
 ## Dependencies:
 
   - [Firebase/Firestore](https://firebase.google.com/)
+  - [Fuse.js](https://fusejs.io/)
   - [rollup.js](https://rollupjs.org/guide/en/)
   - [styled-components](https://styled-components.com/)
