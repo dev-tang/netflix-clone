@@ -1,6 +1,6 @@
 # Netfix-React-Clone
 
-<img src="https://i.gyazo.com/ed4b7896430c8b66d7fb095b34ed3d24.gif" alt="Netflix Clone Screenshot Gif" height="400">
+<img src="https://i.gyazo.com/ed4b7896430c8b66d7fb095b34ed3d24.gif" height="400">
 
 ## Overview
 
