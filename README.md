@@ -1,6 +1,6 @@
 # Netfix-React-Clone
 
-<img src="https://i.imgur.com/Lq52mah.gif" alt="Netflix React Clone Screenshot Gif">
+<img src="https://i.imgur.com/9hh5ngA.png" alt="Netflix React Clone Screenshot">
 
 ## Overview
 
